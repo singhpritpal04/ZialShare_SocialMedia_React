@@ -3,15 +3,15 @@
 
 ## A social media application created using React and Sanity.io
 
-##Homepage
+### Homepage
 ![Screenshot 2023-04-27 203105](https://user-images.githubusercontent.com/60469949/234909145-2468c872-0d6e-4dd9-948b-9828eb76d246.png)
-##Login-page
+### Login-page
 ![Screenshot 2023-04-27 203228](https://user-images.githubusercontent.com/60469949/234909200-4b9d2d65-1bff-41f2-ae36-dd0580f3e5d7.png)
-##Post-page
+### Post-page
 ![Screenshot 2023-04-27 202746](https://user-images.githubusercontent.com/60469949/234909288-c4a5264d-eea1-43c7-b3df-65e991eba9d8.png)
-##UserProfile
+### UserProfile
 ![Screenshot 2023-04-27 205252](https://user-images.githubusercontent.com/60469949/234909729-18017e49-1064-4495-aceb-f5393a8f5932.png)
-##Upload-post
+### Upload-post
 ![Screenshot 2023-04-27 202746](https://user-images.githubusercontent.com/60469949/234909780-a06fb146-716a-4350-96c6-938d23cf6637.png)
 
 ## 🔗 Links
